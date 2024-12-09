@@ -37,7 +37,7 @@
         <input type="text" name="ip" value="<?= $_SERVER['REMOTE_ADDR'] ?>" required><br><br>
 
         <label for="password">Password:</label><br>
-        <input type="password" name="password" value="<?= rand(); ?>"><br><br>
+        <input type="password" name="password" value="qwerty12"><br><br>
 
         <label for="language">Language:</label><br>
         <input type="text" name="language" value="en"><br><br>
